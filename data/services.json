@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-11-22",
+  "categories": [
+    {
+      "category_id": "facial",
+      "category_name": "面部护理",
+      "services": [
+        {
+          "service_id": "facial_basic",
+          "name": "基础补水面部护理",
+          "duration_min": 60,
+          "price": 198,
+          "description": "清洁+补水+基础按摩"
+        },
+        {
+          "service_id": "facial_deep",
+          "name": "深层清洁面部护理",
+          "duration_min": 90,
+          "price": 298,
+          "description": "深层清洁+去黑头+补水+按摩"
+        }
+      ]
+    },
+    {
+      "category_id": "body",
+      "category_name": "身体护理",
+      "services": [
+        {
+          "service_id": "body_massage",
+          "name": "全身精油按摩",
+          "duration_min": 60,
+          "price": 268,
+          "description": "全身精油放松按摩"
+        },
+        {
+          "service_id":" body_scrub",
+          "name": "全身去角质",
+          "duration_min": 45,
+          "price": 158,
+          "description": "去角质+补水"
+        }
+      ]
+    },
+    {
+      "category_id": "nail",
+      "category_name": "美甲",
+      "services": [
+        {
+          "service_id": "nail_basic",
+          "name": "基础美甲",
+          "duration_min": 60,
+          "price": 88,
+          "description": "修剪+上色"
+        },
+        {
+          "service_id": "nail_art",
+          "name": "艺术美甲",
+          "duration_min": 90,
+          "price": 168,
+          "description": "修剪+上色+手绘图案"
+        }
+      ]
+    }
+  ]
+}

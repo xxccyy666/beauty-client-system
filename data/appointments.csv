@@ -1,0 +1,7 @@
+appointment_id,client_id,service_id,date,time,duration_min,price,status,notes
+A001,C001,facial_basic,2026-11-15,14:00,60,198,completed,正常
+A002,C002,facial_deep,2026-11-10,10:30,90,298,completed,客户要求加大力度
+A003,C003,body_scrub,2026-10-28,15:00,45,158,completed,正常
+A004,C004,nail_art,2026-11-20,16:00,90,168,completed,客户自带参考图
+A005,C005,facial_deep,2026-11-18,11:00,90,298,completed,使用了储值卡
+A006,C001,facial_basic,2026-11-29,14:00,60,198,scheduled,定期补水
